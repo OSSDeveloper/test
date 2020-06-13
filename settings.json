@@ -1,0 +1,6 @@
+{
+    "deno.enable": true,
+    "deno.alwaysShowStatus": true,
+    "deno.autoFmtOnSave": true,
+    "editor.hover.enabled": true
+}
