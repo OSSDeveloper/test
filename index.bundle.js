@@ -108,51 +108,66 @@ let System, __instantiateAsync, __instantiate;
 })();
 
 "use strict";
-System.register("file:///D:/Users/Vijay/deno/test/test", [], function (exports_1, context_1) {
+System.register(
+  "file:///D:/Users/Vijay/deno/test/test",
+  [],
+  function (exports_1, context_1) {
     "use strict";
     var __moduleName = context_1 && context_1.id;
     function add(a, b) {
-        return a + b;
+      return a + b;
     }
     exports_1("add", add);
     return {
-        setters: [],
-        execute: function () {
-        }
+      setters: [],
+      execute: function () {
+      },
     };
-});
+  },
+);
 console.log("Welcome to Deno 🦕");
-System.register("file:///D:/Users/Vijay/deno/test/deps", ["https://deno.land/std/examples/welcome.ts"], function (exports_2, context_2) {
+System.register(
+  "file:///D:/Users/Vijay/deno/test/deps",
+  ["https://deno.land/std/examples/welcome.ts"],
+  function (exports_2, context_2) {
     "use strict";
     var __moduleName = context_2 && context_2.id;
     return {
-        setters: [
-            function (welcome_1) {
-                exports_2("welcome", welcome_1);
-            }
-        ],
-        execute: function () {
-        }
+      setters: [
+        function (welcome_1) {
+          exports_2("welcome", welcome_1);
+        },
+      ],
+      execute: function () {
+      },
     };
-});
-System.register("file:///D:/Users/Vijay/deno/test/index", ["file:///D:/Users/Vijay/deno/test/test", "file:///D:/Users/Vijay/deno/test/deps"], function (exports_3, context_3) {
+  },
+);
+System.register(
+  "file:///D:/Users/Vijay/deno/test/index",
+  [
+    "file:///D:/Users/Vijay/deno/test/test",
+    "file:///D:/Users/Vijay/deno/test/deps",
+  ],
+  function (exports_3, context_3) {
     "use strict";
     var test_ts_1, deps_ts_1;
     var __moduleName = context_3 && context_3.id;
     return {
-        setters: [
-            function (test_ts_1_1) {
-                test_ts_1 = test_ts_1_1;
-            },
-            function (deps_ts_1_1) {
-                deps_ts_1 = deps_ts_1_1;
-            }
-        ],
-        execute: function () {
-            console.log(test_ts_1.add(1, 2));
-            console.log(deps_ts_1.welcome);
-        }
+      setters: [
+        function (test_ts_1_1) {
+          test_ts_1 = test_ts_1_1;
+        },
+        function (deps_ts_1_1) {
+          deps_ts_1 = deps_ts_1_1;
+        },
+      ],
+      execute: function () {
+        console.log(test_ts_1.add(1, 2));
+        console.log(deps_ts_1.welcome);
+      },
     };
-});
+  },
+);
 
 __instantiate("file:///D:/Users/Vijay/deno/test/index");
