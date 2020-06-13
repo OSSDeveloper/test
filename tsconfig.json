@@ -6,9 +6,16 @@
             "esnext"
         ],
         "module": "esnext",
-        "moduleResolution": "node",
-        "--baseUrl": "./",
-        "paths": {},
+        "moduleResolution": "deno",
+        "baseUrl": ".",
+        "paths": {
+            "http://*": [
+                ".../deno/deps/http/*"
+            ],
+            "https://*": [
+                ".../deno/deps/https/*"
+            ],
+        },
         "plugins": [
             {
                 "name": "typescript-deno-plugin",
