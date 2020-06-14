@@ -25,19 +25,19 @@ let findHabitablePlanets = async function (strPath: string) {
     
     const habitablePlanets = (result as Array<Planet>).filter((planet) => {
         const planetaryRadius = Number(planet['koi_prad']);
-        const stellarMass = Number(planet["koi_smass"]);
-        const stellarRadius = Number(planet["koi_srad"]);
+        // const stellarMass = Number(planet['koi_smass']);
+        const stellarRadius = Number(planet['koi_srad']);
         
-        return planet['koi_disposition'] === "CONFIRMED"
+        return (planet['koi_disposition'] === 'CONFIRMED'
             && planetaryRadius > 0.5 && planetaryRadius < 1.5
-            && stellarMass > 0.78 && stellarMass < 1.04
+            // && stellarMass > 0.78 && stellarMass < 1.04
             && stellarRadius > 0.99 && stellarRadius < 1.01
-        ;
+        );
     });
+    
     return habitablePlanets;
 }
 
 let results = await findHabitablePlanets('./nasa_data/cumulative_2020.06.13_17.31.23.csv');
-// let ary = await readDir(Deno.cwd());
 console.log(results);
 console.log("Results : ", results.length);
