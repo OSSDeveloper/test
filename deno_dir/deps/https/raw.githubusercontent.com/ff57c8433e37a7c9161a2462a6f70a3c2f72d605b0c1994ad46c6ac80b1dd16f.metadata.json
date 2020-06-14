@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "cache-control": "max-age=300",
+    "etag": "W/\"a3940e11dcaa4ed2e9dc084a246f9475b9b7ae3eda6e416984f40eb2f30fcbab\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "E384:0547:10B859:125255:5EE5F225",
+    "x-timer": "S1592128037.350542,VS0,VE308",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "20ad86708097dd4a2b15ca4d22452cfc749710e2",
+    "connection": "keep-alive",
+    "x-served-by": "cache-sin18040-SIN",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/round.js"
+}

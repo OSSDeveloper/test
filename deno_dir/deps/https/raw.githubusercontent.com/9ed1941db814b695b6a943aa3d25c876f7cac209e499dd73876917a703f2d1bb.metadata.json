@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-sin18044-SIN",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-timer": "S1592128037.959175,VS0,VE309",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"ba8c402a9bead7a9c2e21ae28dfead4871cee88f61faf09583ef7952582a2109\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "fa62ea39cebf11e3a4f1a1e0c4704b13e24dbf72",
+    "x-github-request-id": "DE98:7B13:3371D3:3665A4:5EE5F224",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/negate.js"
+}

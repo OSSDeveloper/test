@@ -1,4 +1,4 @@
-import { BufReader, parse } from "./deps.ts";
+import { BufReader, parse, _ } from "./deps.ts";
 let readFile = async function (strPath) {
     return await Deno.readTextFile(await Deno.realPath(strPath));
 };
@@ -24,7 +24,15 @@ let findHabitablePlanets = async function (strPath) {
             // && stellarMass > 0.78 && stellarMass < 1.04
             && stellarRadius > 0.99 && stellarRadius < 1.01);
     });
-    return habitablePlanets;
+    return habitablePlanets.map((planet) => {
+        return _.pick(planet, [
+            'koi_prad',
+            'koi_srad',
+            'kepler_name',
+            'koi_tce_plnt_num',
+            'koi_steff'
+        ]);
+    });
 };
 let results = await findHabitablePlanets('./nasa_data/cumulative_2020.06.13_17.31.23.csv');
 console.log(results);

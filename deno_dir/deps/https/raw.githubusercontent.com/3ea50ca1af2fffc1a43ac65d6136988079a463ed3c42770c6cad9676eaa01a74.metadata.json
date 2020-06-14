@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "x-served-by": "cache-sin18032-SIN",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128036.634261,VS0,VE307",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-fastly-request-id": "4798b75ba5f25eba3087e935eaf351b3f0454a30",
+    "etag": "W/\"19fe43b00e4622d977f9b4ec9c39a00e2242bfce3914d821a9ed0cad5761f74d\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "AC6C:7F10:33EDAF:36E72C:5EE5F223",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/findKey.js"
+}

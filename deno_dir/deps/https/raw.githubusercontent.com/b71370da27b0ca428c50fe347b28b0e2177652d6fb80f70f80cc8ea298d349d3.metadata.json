@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-github-request-id": "17D0:0B87:3D2379:400CFD:5EE5F224",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-timer": "S1592128037.782359,VS0,VE265",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "etag": "W/\"838a4ab37c471e4dc2542ef8acd5059dc6fa803da5f21093327eb910ed91d88d\"",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "x-served-by": "cache-bom18222-BOM",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "84aa90a75e856b6f3cbddf51c12988d09d5d9c6c",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/mergeWith.js"
+}

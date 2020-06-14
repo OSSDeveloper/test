@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "b34435b4d783875e41b8d59d30a5c11c0d5900bc",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "etag": "W/\"747f50582cf7c12802df4ebbf1ed1c4f26f793370a7ef76eb0e72fcc3a88d976\"",
+    "x-served-by": "cache-sin18023-SIN",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "C892:0547:10B862:12525F:5EE5F226",
+    "x-timer": "S1592128038.359649,VS0,VE308",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/zipObject.js"
+}

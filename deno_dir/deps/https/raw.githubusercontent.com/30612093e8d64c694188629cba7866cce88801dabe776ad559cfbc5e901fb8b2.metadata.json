@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "A290:5190:3DC2D8:40B10B:5EE5F228",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-timer": "S1592128041.667944,VS0,VE270",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "774f0030f68841ac78097adfc53d4bfcdc0db49c",
+    "etag": "W/\"66b50316d4b2dfec5fb4fad493c7545eceabf332ff77ae1f8b7abf96a2d722e7\"",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-bom18222-BOM",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "cache-control": "max-age=300",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_coreJsData.js"
+}

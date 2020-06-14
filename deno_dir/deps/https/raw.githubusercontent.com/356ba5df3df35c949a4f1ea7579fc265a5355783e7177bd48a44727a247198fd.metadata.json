@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "x-github-request-id": "9562:7210:3CCC7E:3FB0CF:5EE5F223",
+    "x-timer": "S1592128037.582457,VS0,VE262",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-bom18223-BOM",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "529331919b7bd93c59b4ac543a68960c45339353",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"55823d44ecc2f26573570394469dbfc96b0b3e27bc81ecc71e84e33ca947f3af\"",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/keysIn.js"
+}

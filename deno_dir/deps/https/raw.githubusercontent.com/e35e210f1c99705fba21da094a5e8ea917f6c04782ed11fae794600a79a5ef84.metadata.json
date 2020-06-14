@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"2b97402bc3064120f0ced96a5c5ce5502cfa8363d0c301b45b3e8ba8598c4dc4\"",
+    "source-age": "0",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128037.249645,VS0,VE263",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "15B2:0B87:3D2383:400D0B:5EE5F224",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-served-by": "cache-bom18225-BOM",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "3e6f05546476519502f4bc7db8d47520895272d3"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/range.js"
+}

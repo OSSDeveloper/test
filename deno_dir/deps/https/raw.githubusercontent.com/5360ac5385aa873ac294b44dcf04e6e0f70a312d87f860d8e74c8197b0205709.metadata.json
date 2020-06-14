@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "source-age": "0",
+    "x-fastly-request-id": "df57ff74e13216ed5f77daca4467d85f88da468f",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "etag": "W/\"900962e0eb0671cd46bd573d16bf5b8923f721898b0174cbaae9635afb5ff955\"",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "x-github-request-id": "BA8C:7B13:337268:366656:5EE5F228",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128041.175231,VS0,VE325",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0, 0",
+    "x-served-by": "cache-sin18036-SIN",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_stackClear.js"
+}

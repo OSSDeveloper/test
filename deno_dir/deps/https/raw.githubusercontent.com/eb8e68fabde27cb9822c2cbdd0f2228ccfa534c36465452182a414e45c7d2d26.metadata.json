@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"43c7fa8515aa05517bf0f5cccb31468bcfd8c873fe944e012dc6dd3565d2379b\"",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "aa0fdffd570d1f8eeff7ffe53c31a7e731649040",
+    "x-served-by": "cache-bom18222-BOM",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128040.655126,VS0,VE265",
+    "x-github-request-id": "CEB2:0B87:3D23BE:400D51:5EE5F227",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayReduce.js"
+}

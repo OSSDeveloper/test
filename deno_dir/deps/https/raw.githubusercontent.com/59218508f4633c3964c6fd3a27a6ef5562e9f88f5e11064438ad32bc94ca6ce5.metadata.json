@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-served-by": "cache-sin18048-SIN",
+    "etag": "W/\"093c61e0fa6c48bcdba095cee564cab67902d0ae22bd2f8da885137bf2ccface\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "0FF8:7F10:33EDF1:36E6C3:5EE5F21E",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1592128038.126005,VS0,VE315",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "29fbf63e76a2c58bd61fed6b1989988e2ceed542",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/unset.js"
+}

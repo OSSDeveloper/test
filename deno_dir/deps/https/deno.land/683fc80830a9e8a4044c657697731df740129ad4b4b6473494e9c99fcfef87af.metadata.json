@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "etag": "W/\"42fa6a8e02867e1cf298e57bc7c002d2812612862c36b2067ee18bf28feddbd0\"",
+    "expires": "Sun, 14 Jun 2020 10:01:39 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "cache-control": "max-age=14400",
+    "date": "Sun, 14 Jun 2020 09:56:39 GMT",
+    "cf-cache-status": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "48b7a4efc90a65d50a3649b3e47ff161626b1a60",
+    "x-served-by": "cache-sin18048-SIN",
+    "access-control-allow-origin": "*",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-content-type-options": "nosniff",
+    "content-type": "application/javascript; charset=utf-8",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "x-timer": "S1592128600.628283,VS0,VE308",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "cf-ray": "5a332ec34911e243-SIN",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "cf-request-id": "0353db8e0e0000e2438eb47200000001",
+    "server": "cloudflare",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "388A:590E:133B8C:14FA02:5EE5F457"
+  },
+  "url": "https://deno.land/x/lodash/cloneDeep.js"
+}

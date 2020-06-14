@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"d508c5210d42ca051a00e8a892b5492504409955d9220332b726a6bf3afa63f3\"",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "71c7c61b5613f56119765031404649569bb3e642",
+    "x-github-request-id": "E384:0547:10B853:12524F:5EE5F224",
+    "x-served-by": "cache-sin18030-SIN",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-timer": "S1592128037.960506,VS0,VE308",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/now.js"
+}

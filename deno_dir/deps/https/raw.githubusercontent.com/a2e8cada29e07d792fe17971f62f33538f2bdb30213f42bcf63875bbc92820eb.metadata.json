@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "A3F8:5190:3DC237:40B071:5EE5F223",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"e8171f58ef620b83ea5dad40ba116e1e4238c19fad83490e27c2af06b3aa64ca\"",
+    "accept-ranges": "bytes",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-bom18227-BOM",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-timer": "S1592128035.489113,VS0,VE262",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "555305ec18f72e8e02181aa160a1bd19e9ef94e5"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/fill.js"
+}

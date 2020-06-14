@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"0008bb83a61b6ec8d111650278094704cb98062ba6959302c3a713a7feb12627\"",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-github-request-id": "EF7A:7B12:1269AF:1415D0:5EE5F226",
+    "x-fastly-request-id": "bdf7969ca8fedbe4442eac65aaa98708a8b28a7b",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-sin18027-SIN",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-timer": "S1592128039.970188,VS0,VE310",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createRelationalOperation.js"
+}

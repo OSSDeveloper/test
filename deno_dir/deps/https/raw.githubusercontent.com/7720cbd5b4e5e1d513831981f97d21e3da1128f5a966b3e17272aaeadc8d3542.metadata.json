@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1592128040.309547,VS0,VE269",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-github-request-id": "3E2A:5190:3DC2CB:40B0F3:5EE5F227",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-served-by": "cache-bom18224-BOM",
+    "etag": "W/\"bc3adaacecb52a74460c78034120c987258c5be7c1ffcd5882c2b137a65553ee\"",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cache-control": "max-age=300",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "a6d6c0a952860e1179d60de6202c957e2754ad05"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/number.js"
+}

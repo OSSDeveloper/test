@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "x-fastly-request-id": "a2ca61bfa932665472eb1073ad6375e4af2f17d7",
+    "accept-ranges": "bytes",
+    "etag": "W/\"311843cd701e92c73022030d4952a09df0db1f7afb2bf719f73ee58893e0d5a2\"",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-bom18222-BOM",
+    "x-github-request-id": "BB44:720F:114F7A:12D4B5:5EE5F226",
+    "x-timer": "S1592128038.235857,VS0,VE260",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/wrapperChain.js"
+}

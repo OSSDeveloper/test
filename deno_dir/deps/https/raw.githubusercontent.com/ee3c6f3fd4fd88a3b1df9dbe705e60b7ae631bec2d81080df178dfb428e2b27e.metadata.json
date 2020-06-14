@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128038.939291,VS0,VE816",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"b05c6920e82f20bda52ceb79d04ace5c1157ab93fba4b5aad278545cc3c38757\"",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "6172:7210:3CCCAA:3FB11B:5EE5F225",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-served-by": "cache-bom18221-BOM",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "2e1502deda7e9587feec19945ae148f15a2937c2"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/trim.js"
+}

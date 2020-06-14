@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "x-github-request-id": "192C:7B13:33719F:36654D:5EE5F21F",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128035.194008,VS0,VE311",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "faa23a2d8a958e254dfc0bb34d15256276f5538a",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "etag": "W/\"5c7e953e8079fa98947f92a484768ba59f2604f6de050254349d30de7ed70541\"",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-sin18023-SIN",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/cloneDeepWith.js"
+}

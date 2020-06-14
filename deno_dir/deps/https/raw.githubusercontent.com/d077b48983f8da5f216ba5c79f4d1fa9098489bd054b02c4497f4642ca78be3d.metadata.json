@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-cache": "MISS, MISS",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-bom18227-BOM",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "5a8c41b19a66fdc623ebfb7ab566505b062d6b38",
+    "x-timer": "S1592128039.171646,VS0,VE278",
+    "etag": "W/\"6175a7c05e890ad60c96c113552feb703127ac1eaa3a4e20de7b498b441235d3\"",
+    "x-github-request-id": "6058:5190:3DC2AA:40B0E9:5EE5F226"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseUnary.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-bom18222-BOM",
+    "x-timer": "S1592128035.249398,VS0,VE261",
+    "x-github-request-id": "CB0A:518F:FDD3F:1157DD:5EE5F223",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "ec9016511dc301aedd9fb64b06255fb7b14c33d1",
+    "connection": "keep-alive",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "etag": "W/\"d59a07cfa765c2600b3a7570a29049b8cd8e6e250b57b658fce69a451262c9f6\"",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/defer.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "etag": "W/\"65fe1b65009a744920eac8e6ddbfce409b8138f673f9d9e5d200f2e1a13ab1de\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "source-age": "0",
+    "x-served-by": "cache-bom18227-BOM",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "6a44d2800c4325b5710adbf44c3653add2d50d48",
+    "x-timer": "S1592128039.349592,VS0,VE261",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "E5D8:5190:3DC2AF:40B0F2:5EE5F227",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseMap.js"
+}

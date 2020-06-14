@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1592128037.753495,VS0,VE309",
+    "x-fastly-request-id": "b6bf861383c8bcf7042e7bd5c34fbd90212a8530",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "FA64:7F10:33EDCD:36E74C:5EE5F224",
+    "etag": "W/\"6afc0468957c95c4dec5f49e21d5dd5f27167d2376784f0f1ce97058e8faa64d\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-sin18026-SIN",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/memoize.js"
+}

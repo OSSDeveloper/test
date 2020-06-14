@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1592128039.383040,VS0,VE334",
+    "connection": "keep-alive",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "7f0f07e679314b329aec99ab6495312e33e0005b",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18030-SIN",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"74f560adb96b08a1028c9369e398a945a2193b2d3106a3c0e92c122f25059595\"",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-github-request-id": "0890:7F0D:12E3B:22A8D:5EE5F227"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseLt.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1592128036.288275,VS0,VE258",
+    "connection": "keep-alive",
+    "etag": "W/\"49cfdbdc6d37e7232bc937a5b2b6eca29615769df808e58b04621255d95f3d1d\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-github-request-id": "6424:5190:3DC250:40B092:5EE5F224",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "4599bd02aca8008d0fa6a9f74ba55e104bfb3f41",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-bom18226-BOM",
+    "x-content-type-options": "nosniff",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isNaN.js"
+}

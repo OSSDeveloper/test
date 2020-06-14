@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"7fd3855494aa70f167dbc96b5a4860884690796ecc802fdca69754352cd8ee2b\"",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "CD66:0B84:AD16:1A2CF:5EE5F225",
+    "x-served-by": "cache-bom18226-BOM",
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-cache-hits": "0, 0",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1592128038.534013,VS0,VE266",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "61dfcb6e108941258cf47d24da7dbc3ef68329bf",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sortedLastIndexOf.js"
+}

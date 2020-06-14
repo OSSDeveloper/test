@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "etag": "W/\"6f77c4dc18c66be6f68b0853a41353012435cf23045cf240161b4dac2733df35\"",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "64A8:0B86:104304:11C07D:5EE5F225",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128038.879330,VS0,VE259",
+    "x-served-by": "cache-bom18220-BOM",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "a516d713ac009e721dce4a7379120f5972f67258",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/toNumber.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-github-request-id": "35AE:0B87:3D23BD:400D49:5EE5F227",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "etag": "W/\"1375a7b8285aee6a092ab883287c21656448404b2e686bfab1a20661e00f2fda\"",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "37f5fb2bf4c14ed662def983f53c6fbe424063d9",
+    "x-served-by": "cache-bom18226-BOM",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128040.639080,VS0,VE268",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_basePullAt.js"
+}

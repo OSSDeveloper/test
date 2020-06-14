@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "C97C:5190:3DC2BD:40B103:5EE5F227",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1592128040.837678,VS0,VE262",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"cf179fac8f3d0c654968fc5bb52a76a18bd106eb29f4eb2b14b2975dd3f0235e\"",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "60c9712bb0eb997c0a7622a40c6a26efc708ae81",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_customDefaultsAssignIn.js"
+}

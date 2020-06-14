@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1592128036.238302,VS0,VE270",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "01be9a98c2bea5018ea7d03b184d9b19fb43f176",
+    "x-served-by": "cache-bom18227-BOM",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-github-request-id": "7DC4:0B87:3D236D:400CFC:5EE5F224",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"4d343cd0d751a43351a1313f162c495a5734dead37d5e146f0f32d38f9d319fd\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isMap.js"
+}

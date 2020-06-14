@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"33e3ff23576899c1ff69f2aebdbb7debbabfb4d68e4f36c1e286dd17e5127377\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-timer": "S1592128035.447372,VS0,VE264",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "187E:5190:3DC236:40B059:5EE5F221",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-fastly-request-id": "b32c2a769df1ccdee768c943b57bbb1b1582090a"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/every.js"
+}

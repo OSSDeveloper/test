@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "x-timer": "S1592128036.704112,VS0,VE271",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"6d664b4cec76b7a33125af7315ce5f1a5cbb269789ba2ace7e5ca6f6a02faf0b\"",
+    "x-github-request-id": "E5CE:0B87:3D2361:400CE5:5EE5F223",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "48d59aae71c3832ef0fc8de65c5c73385b94467a",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-bom18227-BOM"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/forEach.js"
+}

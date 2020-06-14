@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-github-request-id": "DF42:7F0E:3E26F:4F9A0:5EE5F225",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1592128038.700806,VS0,VE302",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "etag": "W/\"7914b7fb3e20b9ac7ddc164814ebbbf33181fde88c4b78b12f57927412d9cb02\"",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-served-by": "cache-sin18020-SIN",
+    "x-fastly-request-id": "b66741fa9ac5e893be8da31369866c53dc34916d",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/tail.js"
+}

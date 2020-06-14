@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "BBEA:0546:338812:368208:5EE5F227",
+    "x-served-by": "cache-sin18032-SIN",
+    "x-fastly-request-id": "86f79a78d6f8d8c56327238097edbb8799efc887",
+    "x-timer": "S1592128040.660651,VS0,VE316",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "etag": "W/\"fe2082517b6ab803fd4744357e368acaf5ee04ba0d5a9a0c5339ecef71acc1ee\"",
+    "source-age": "0",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseRandom.js"
+}

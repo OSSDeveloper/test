@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "8f62d9d165301e1487ca032a9c297639da923ce0",
+    "cache-control": "max-age=300",
+    "date": "Sun, 14 Jun 2020 09:47:22 GMT",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1592128042.236418,VS0,VE302",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:22 GMT",
+    "etag": "W/\"a54a150fa4fe99c41ef0382965a779b36f7029196bb55e6566c32722a769a25e\"",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-sin18020-SIN",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "x-github-request-id": "FBFC:0546:338876:36825A:5EE5F229",
+    "x-cache-hits": "0, 0",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_hashGet.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "x-github-request-id": "0C9E:7B13:33725B:366650:5EE5F228",
+    "x-served-by": "cache-sin18042-SIN",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "x-fastly-request-id": "b87752f069ebb2162738bcf774148f3c82818e7e",
+    "x-timer": "S1592128041.783930,VS0,VE315",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"79c621ad448b2d5f2a6960aec79bdfdcbb7a595df86ac1d130cc50281d8ae6cf\"",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_mapCacheClear.js"
+}

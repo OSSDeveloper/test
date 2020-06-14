@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128036.212676,VS0,VE836",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "etag": "W/\"f75d33b97be2a6c89796ad3e425c7a0626b12d6268970a6d8387d51664e3203d\"",
+    "x-github-request-id": "CEB2:0B87:3D236C:400CFB:5EE5F224",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "899c82789a9726c18f03084386f9ecf6b16e6ce9",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-bom18224-BOM",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isInteger.js"
+}

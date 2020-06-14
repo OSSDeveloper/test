@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1592128038.926584,VS0,VE263",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "x-github-request-id": "6424:5190:3DC282:40B0C1:5EE5F225",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-bom18224-BOM",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"9c87c4a283ffff605cc6948e56d154c9466c401e7169efb5a3563279526fbde9\"",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "68e94c7841a5a9446fd7ca86e5e3a3af46c1c17c",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/toUpper.js"
+}

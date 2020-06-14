@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"255ce82eef6cf0c4ab2f973a0fd283d1df3a022abb36738dcc7f4e3dfcc0ce4e\"",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "D0A4:0B87:3D23CE:400D5D:5EE5F228",
+    "x-cache": "MISS, MISS",
+    "connection": "keep-alive",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-bom18226-BOM",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128040.254276,VS0,VE287",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-fastly-request-id": "9c563cfe0e510f0c72bb7feb822675f406a0172c",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_initCloneObject.js"
+}

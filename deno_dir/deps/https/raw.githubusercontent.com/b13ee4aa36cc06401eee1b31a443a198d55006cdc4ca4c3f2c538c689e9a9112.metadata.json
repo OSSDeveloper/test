@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-sin18051-SIN",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"24cb0426a532797b3521ea143b45e9429d6b67b5b2f739dc10695d554c30bf53\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "x-github-request-id": "FACE:7F10:33EDA2:36E720:5EE5F222",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "8b0e4e759bc8723142bfeb6198b61c2a81888cb6",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128035.055971,VS0,VE317",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "connection": "keep-alive"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/assignWith.js"
+}

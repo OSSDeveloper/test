@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-bom18220-BOM",
+    "source-age": "0",
+    "x-fastly-request-id": "df88115d900a88d2fe49df2deea970a7bc284de2",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "3E2A:5190:3DC259:40B093:5EE5F224",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128037.627874,VS0,VE309",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "etag": "W/\"802fd8746a2eb007bf41c919dae6253163b2604f0cf40b7c6dc3b4e384636852\"",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/lt.js"
+}

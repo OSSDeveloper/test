@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "f0117aeaa2d95a00934082576db182fba403b087",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128036.205101,VS0,VE251",
+    "x-github-request-id": "B9A6:7F95:3CC62E:3FAC17:5EE5F224",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "connection": "keep-alive",
+    "etag": "W/\"ced480600ff8c960142d61675bf2cf347a64108fc3da9d4d43ced606f24bb6bc\"",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-bom18224-BOM"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isFinite.js"
+}

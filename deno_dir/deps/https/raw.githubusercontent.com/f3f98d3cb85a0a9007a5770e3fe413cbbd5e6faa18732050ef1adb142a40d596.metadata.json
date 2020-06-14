@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"ec117740b903add00ab8f6ff68ab804a42417f64065563086ecb0a0bcf6c2289\"",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-bom18224-BOM",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128036.072445,VS0,VE259",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "dc4a4a5bdc003659d4e9607c9abc43abfc5f5dd6",
+    "x-github-request-id": "CD66:0B84:AD12:1A2CB:5EE5F223",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "source-age": "0",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/invokeMap.js"
+}

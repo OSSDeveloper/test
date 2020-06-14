@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "content-type": "application/javascript; charset=utf-8",
+    "etag": "W/\"8dfdd0d4a1bdbcb2f9ec58f441973d8c711489c79b42824943ab1900ca433a63\"",
+    "cf-request-id": "0353db8e360000e2438eb74200000001",
+    "cache-control": "max-age=14400",
+    "x-fastly-request-id": "09f4c5b683639aff1c4f5f98afabc66f963766d1",
+    "x-served-by": "cache-sin18038-SIN",
+    "date": "Sun, 14 Jun 2020 09:56:39 GMT",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "cf-cache-status": "MISS",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "5278:3BC8:2FB0DF:32985D:5EE5F456",
+    "x-timer": "S1592128600.627326,VS0,VE331",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "expires": "Sun, 14 Jun 2020 10:01:39 GMT",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "cf-ray": "5a332ec389e5e243-SIN"
+  },
+  "url": "https://deno.land/x/lodash/flatMapDeep.js"
+}

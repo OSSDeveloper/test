@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-sin18020-SIN",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"659a4769d44f8b25e59cddc78986ba0ee132e00f5872270787981e635580fcc0\"",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "x-github-request-id": "FA64:7F10:33EE55:36E7CA:5EE5F228",
+    "x-timer": "S1592128041.730011,VS0,VE307",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "a992742d634164696f04de5be01d27d89c159ba5",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_assignMergeValue.js"
+}

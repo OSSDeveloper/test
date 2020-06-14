@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-timer": "S1592128036.782094,VS0,VE255",
+    "x-cache": "MISS, MISS",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-bom18224-BOM",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-github-request-id": "C97C:5190:3DC240:40B07C:5EE5F223",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "2d43a4a7924ffca74626bf3e7ad651586ec637be",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "etag": "W/\"24acfbc0e48b0eceb5284002badc900837bd74f763ce9ba32d5c24ed9648bb21\"",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/forEachRight.js"
+}

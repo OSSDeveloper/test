@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "etag": "W/\"d866e896dcd279f7937f55e10b72663bdc34307ab3b8f2dbd951906bb2561e68\"",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "content-type": "application/javascript; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 10:01:40 GMT",
+    "cf-request-id": "0353db8edf0000e2438e81e200000001",
+    "server": "cloudflare",
+    "date": "Sun, 14 Jun 2020 09:56:40 GMT",
+    "cf-cache-status": "MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-fastly-request-id": "3c0e87560042320451879e3563823b10d4aaddcd",
+    "cf-ray": "5a332ec49cd1e243-SIN",
+    "x-served-by": "cache-sin18045-SIN",
+    "cache-control": "max-age=14400",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "x-frame-options": "deny",
+    "x-timer": "S1592128600.978204,VS0,VE1018",
+    "x-github-request-id": "5278:3BC8:2FB0F6:3298A6:5EE5F457"
+  },
+  "url": "https://deno.land/x/lodash/toNumber.js"
+}

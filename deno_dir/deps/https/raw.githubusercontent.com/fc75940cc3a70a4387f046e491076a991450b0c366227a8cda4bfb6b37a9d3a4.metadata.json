@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"cfb13d8a933ebb1d33c32f1046ebfc78be4ca2b296fac059d83e38c64ffea892\"",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "BAFC:7F10:33EE02:36E5CB:5EE5F215",
+    "x-timer": "S1592128038.494276,VS0,VE334",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "9845c916adf775a933084b85c1ae66f248ed1072",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-sin18042-SIN",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseRest.js"
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "cache-control": "max-age=14400",
+    "date": "Sun, 14 Jun 2020 09:56:39 GMT",
+    "cf-cache-status": "MISS",
+    "etag": "W/\"2f73bfac73ec7bfa414f4ba13182f3647476142d6c34798d7db1ca4785c3a603\"",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-sin18022-SIN",
+    "x-timer": "S1592128600.636665,VS0,VE316",
+    "cf-ray": "5a332ec389dae243-SIN",
+    "server": "cloudflare",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "expires": "Sun, 14 Jun 2020 10:01:39 GMT",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cf-request-id": "0353db8e360000e2438eb6f200000001",
+    "x-fastly-request-id": "8265c237b4528fb3996e0575dd6eadc5fd214e84",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "29B4:590F:2CA473:2F6C6B:5EE5F457",
+    "x-frame-options": "deny",
+    "content-type": "application/javascript; charset=utf-8",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://deno.land/x/lodash/findLast.js"
+}

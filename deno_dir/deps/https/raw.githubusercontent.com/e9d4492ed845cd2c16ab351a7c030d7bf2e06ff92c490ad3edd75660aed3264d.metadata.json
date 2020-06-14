@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "source-age": "0",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "etag": "W/\"a23950851363ab09f0dbc91c55cdd3ab22b7baf27dca94d863721a172121bca5\"",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-timer": "S1592128036.147092,VS0,VE252",
+    "x-served-by": "cache-bom18220-BOM",
+    "x-cache-hits": "0, 0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-github-request-id": "187E:5190:3DC24A:40B088:5EE5F223",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "5ad827746f91110d39fa7a5e676f677367db5b96"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isBuffer.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"7a85aaaefad8b2e5abb5f984d248995427b0545a3be243fcd026a9a8105b67db\"",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "9085ebc72a8e5112948377a368c69a695d40eb7b",
+    "x-github-request-id": "F5FA:7B13:33719F:366584:5EE5F222",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128035.192390,VS0,VE331",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-sin18027-SIN"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/ceil.js"
+}

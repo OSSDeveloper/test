@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "28a6f0a4ca71f82f3757f31538623dc8c4f9839a",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "x-served-by": "cache-bom18224-BOM",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "B9A6:7F95:3CC64F:3FAC36:5EE5F225",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "etag": "W/\"10c3e0038b45267864ba7733838e08898ae81480f7d401f7f1f5333f51079b02\"",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128038.967370,VS0,VE259"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/trimStart.js"
+}

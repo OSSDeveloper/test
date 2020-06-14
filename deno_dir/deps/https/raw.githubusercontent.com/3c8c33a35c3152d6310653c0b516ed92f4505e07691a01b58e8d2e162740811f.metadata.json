@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"f7616efcba62abfd951c3d263ce63d075740b4bcd05d4987d957f35ab7e92ea9\"",
+    "x-github-request-id": "7A48:7B13:33726A:36665E:5EE5F229",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18027-SIN",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128041.247817,VS0,VE364",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "e0b0033dd27deaf8e9c1b4fb573f12bbb465d476",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/seq.default.js"
+}

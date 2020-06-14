@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18051-SIN",
+    "x-github-request-id": "9A46:7B11:43EE8:55A17:5EE5F224",
+    "connection": "keep-alive",
+    "accept-ranges": "bytes",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-timer": "S1592128036.157273,VS0,VE305",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-frame-options": "deny",
+    "etag": "W/\"064d8c99d1714b88cc10b419a156fb7bd9301866075f1ddcb4e21064187ac8a1\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "e1478e41d7e7cb856de2577a615da4a41e0ad643",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isDate.js"
+}

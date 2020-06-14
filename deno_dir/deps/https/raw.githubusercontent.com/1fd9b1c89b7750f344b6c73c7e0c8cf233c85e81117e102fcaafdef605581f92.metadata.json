@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "x-github-request-id": "E5D8:5190:3DC22E:40B052:5EE5F221",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-bom18227-BOM",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "812fe16abb00d3ca3c53f5265c9aa4cb7e47749b",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"e7af33eb91aef523a2bcdac02ddd18919f482f6573323dfa889fa7f5746d5024\"",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128035.076734,VS0,VE259",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/bind.js"
+}

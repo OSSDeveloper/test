@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=300",
+    "etag": "W/\"0ecf2667d71fb8746ff420a82445a2d47b5a825e98adfceaf699bd67f3355453\"",
+    "x-served-by": "cache-sin18051-SIN",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "F622:7B13:337216:36660A:5EE5F226",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-timer": "S1592128039.806890,VS0,VE331",
+    "x-fastly-request-id": "4c07675823266cf01cbb14e5602019a79c272a3e",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_escapeHtmlChar.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-bom18222-BOM",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"9244757e457ccb859ff36c8a8cedfd4b5cecd3f5b7c06b3d1041720ee3938745\"",
+    "x-timer": "S1592128040.301525,VS0,VE259",
+    "x-fastly-request-id": "e789784528e94544b9ea680738dc1c96ee05f622",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "7DC4:0B87:3D23CF:400D16:5EE5F225",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/collection.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "8130f944454b339613dba20073dc44f85ae39e74",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1592128037.721053,VS0,VE259",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "E436:0B87:3D2376:400D06:5EE5F224",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-bom18227-BOM",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-cache-hits": "0, 0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "etag": "W/\"55c661098f209f355758dccf0d6047c96559977ce04a6af44942183bf0dacb15\"",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/mapValues.js"
+}

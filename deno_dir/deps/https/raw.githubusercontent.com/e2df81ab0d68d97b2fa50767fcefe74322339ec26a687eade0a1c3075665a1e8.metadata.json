@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1592128039.812742,VS0,VE257",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-bom18221-BOM",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "187E:5190:3DC29E:40B0E0:5EE5F226",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "cache-control": "max-age=300",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "7d4f24c6b3e0513d965dac067351129332c9cfcd",
+    "etag": "W/\"e4afe15f573aaeb1ff086fc05407d98347dff4bfd25d536e3058411befa05d54\"",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseFill.js"
+}

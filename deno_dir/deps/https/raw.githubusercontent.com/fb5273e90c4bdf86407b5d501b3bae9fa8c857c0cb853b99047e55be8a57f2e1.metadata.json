@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128038.563080,VS0,VE289",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-bom18222-BOM",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "A290:5190:3DC272:40B0B6:5EE5F225",
+    "x-frame-options": "deny",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "03f5de6823d580e0ad7d5e834ade17e3fc193f0c",
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "etag": "W/\"fccd6ecb853e44e12072e730bcc6a63ba022400b588a5d409f7f509f95c598a7\"",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/spread.js"
+}

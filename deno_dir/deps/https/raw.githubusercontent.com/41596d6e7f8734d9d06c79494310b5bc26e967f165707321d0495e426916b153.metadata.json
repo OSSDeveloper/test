@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "3309bfa436962b61129467e0f29d836fed925b02",
+    "connection": "keep-alive",
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"bc7ea040d12f8514692254fbee2a0c37f724554ed67f9d2ef3eb5ec50e4d2d0a\"",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1592128038.437602,VS0,VE310",
+    "x-served-by": "cache-sin18040-SIN",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "x-github-request-id": "BA8C:7B13:337205:3665F3:5EE5F226",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createMathOperation.js"
+}

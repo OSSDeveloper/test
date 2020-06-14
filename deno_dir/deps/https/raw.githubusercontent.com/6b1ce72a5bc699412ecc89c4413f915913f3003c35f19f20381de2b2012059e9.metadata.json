@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1592128035.874556,VS0,VE257",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-bom18224-BOM",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "3a6133ac3a735fc75b20d55fe3069b3c01edbc69",
+    "connection": "keep-alive",
+    "x-github-request-id": "A290:5190:3DC226:40B02E:5EE5F220",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"2234d1354dbf879403fd05790f4814163e74b88428cdc046847abccf1e9a2472\"",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/clamp.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "23f41330d6f8e6e104ed111f6b6a8002a6cbe538",
+    "x-timer": "S1592128040.648131,VS0,VE297",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "x-served-by": "cache-sin18040-SIN",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "AB5E:0546:338812:3681F9:5EE5F227",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"ac0e5e51a8fa2d86a8a2f5b9e9433494d54a6817e9b84d99957da0641e5f4c80\"",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_compareAscending.js"
+}

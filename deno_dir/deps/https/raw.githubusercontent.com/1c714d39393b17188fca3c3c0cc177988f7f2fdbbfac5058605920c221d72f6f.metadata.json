@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "etag": "W/\"d3b0ed8e7a05cef8ea8de5c335284e70e31827ac59b0bf69f33a54631fc68710\"",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128039.815018,VS0,VE292",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "c128798d7a737289a0329adb1cdbc4a2ece04c7c",
+    "x-github-request-id": "2D3A:7210:3CCCCA:3FB13E:5EE5F226",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayFilter.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128039.324789,VS0,VE316",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "c1dd6aaf4c74561eade1234690f839d598ce3add",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "C952:0546:338809:3681A1:5EE5F224",
+    "source-age": "0",
+    "x-served-by": "cache-sin18044-SIN",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"63b4c88d025fd14939b055a127c5a045b83a0e6cce420d96e8f1aac32fb0e3f7\"",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_LazyWrapper.js"
+}

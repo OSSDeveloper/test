@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"c00282f8c8f89decdab40cc9c7d15a59733568981e9a5896c74c8aa9d14f0ed4\"",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "connection": "keep-alive",
+    "x-timer": "S1592128039.364615,VS0,VE266",
+    "x-fastly-request-id": "55802c376b07a5fd844bb58dce059eb2028e2897",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-bom18226-BOM",
+    "accept-ranges": "bytes",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "0EAA:5190:3DC2B0:40B0F4:5EE5F227",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createCaseFirst.js"
+}

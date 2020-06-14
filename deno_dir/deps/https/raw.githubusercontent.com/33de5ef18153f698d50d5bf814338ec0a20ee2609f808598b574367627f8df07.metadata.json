@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "source-age": "23",
+    "x-cache-hits": "0, 1",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:57:03 GMT",
+    "x-cache": "MISS, HIT",
+    "x-served-by": "cache-sin18047-SIN",
+    "x-github-request-id": "A756:3BC8:2FB108:3298BB:5EE5F458",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 10:02:03 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"12e141a4a109e79d1dcd79abe4e5b16baa5fe838622abee7b91c614a7c5baaf8\"",
+    "x-timer": "S1592128623.280643,VS0,VE1",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "x-fastly-request-id": "af9aba6a1faf04709e5aea48317bfc72cd5a3b10"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/master/.internal/isKey.js"
+}

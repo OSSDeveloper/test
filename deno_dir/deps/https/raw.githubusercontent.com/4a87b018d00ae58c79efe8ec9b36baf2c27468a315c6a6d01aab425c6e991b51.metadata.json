@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "3437871bb8c80f6903875918624481c975f99663",
+    "x-served-by": "cache-bom18220-BOM",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"4072fa4f6dde35d4813aa466a1a401958cbccc11fde34f51dda6967867ecd9d1\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128041.803248,VS0,VE272",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-github-request-id": "6390:518B:90EA:18573:5EE5F228",
+    "accept-ranges": "bytes",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_mapCacheSet.js"
+}

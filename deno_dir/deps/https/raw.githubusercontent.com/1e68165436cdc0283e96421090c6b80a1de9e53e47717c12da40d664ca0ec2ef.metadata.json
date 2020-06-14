@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "etag": "W/\"2da0c3c0e09e10ea8f6a7789d1fe04b3a6bac1353469d8d36956d8b768b6c617\"",
+    "connection": "keep-alive",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-bom18220-BOM",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "6172:7210:3CCC53:3FB0C3:5EE5F222",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "d2304b69b9420c3b3c4f580df47d62adc7b39998",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1592128035.135070,VS0,VE282"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/conforms.js"
+}

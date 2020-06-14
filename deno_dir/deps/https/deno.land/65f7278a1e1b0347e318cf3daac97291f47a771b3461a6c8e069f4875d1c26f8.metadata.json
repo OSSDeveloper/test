@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "content-type": "application/javascript; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"f7ba4aeeb5e02690986bf6a51f815d1ce9c43be2c3b19a2aad47d4b355a8a38e\"",
+    "expires": "Sun, 14 Jun 2020 10:01:39 GMT",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-fastly-request-id": "1ea4b070832ddfbb5d32a4c8b168ea1a702b1881",
+    "x-xss-protection": "1; mode=block",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-github-request-id": "B6CE:590E:133B8C:14FA03:5EE5F457",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=14400",
+    "cf-ray": "5a332ec34932e243-SIN",
+    "date": "Sun, 14 Jun 2020 09:56:39 GMT",
+    "cf-request-id": "0353db8e0e0000e2438eb5a200000001",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "server": "cloudflare",
+    "x-served-by": "cache-sin18042-SIN",
+    "x-frame-options": "deny",
+    "x-timer": "S1592128600.593958,VS0,VE326",
+    "cf-cache-status": "MISS"
+  },
+  "url": "https://deno.land/x/lodash/differenceWith.js"
+}

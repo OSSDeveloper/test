@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "x-github-request-id": "BD98:7210:3CCCAB:3FB119:5EE5F225",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"522f6378e33534be5acbc2fd23a150a599986d43f1b6089410d8e0e4461d0521\"",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "a502f0c21901974378e06b23b593a099f273a3cf",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-timer": "S1592128038.014221,VS0,VE808",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/unescape.js"
+}

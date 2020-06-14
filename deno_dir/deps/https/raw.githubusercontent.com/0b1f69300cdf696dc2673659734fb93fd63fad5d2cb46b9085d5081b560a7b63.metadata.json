@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-served-by": "cache-bom18226-BOM",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "x-timer": "S1592128041.862494,VS0,VE272",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "x-github-request-id": "EC04:7F95:3CC692:3FAC79:5EE5F228",
+    "etag": "W/\"832c78ea5be730c9d7f1d73d90a5cd66016ed4160780e418d1d99995472088c9\"",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "d55a9ad13c5b777043d3ddc290d864eb80267366"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_getSymbolsIn.js"
+}

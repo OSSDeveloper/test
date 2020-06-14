@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1592128039.484202,VS0,VE252",
+    "accept-ranges": "bytes",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-served-by": "cache-bom18222-BOM",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "etag": "W/\"7a7c94cc57b94e6d4bd68b9abce134924c6d325e0725adaaead489ac7e506c05\"",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "e10dff2ef5d8b4743a880b337161b63054e6317d",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "CF0A:5190:3DC2B6:40B0FC:5EE5F227",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createPadding.js"
+}

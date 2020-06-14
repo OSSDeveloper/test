@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"a195ac3145fa31503b79a550a7d83905167a20edbdcb82e3b840f97ad94c84bb\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "7138:7F10:33EDB7:36E731:5EE5F223",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "5310bf64ef52bff87bdc0975527a980677847899",
+    "x-timer": "S1592128036.020264,VS0,VE322",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-sin18027-SIN"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/intersection.js"
+}

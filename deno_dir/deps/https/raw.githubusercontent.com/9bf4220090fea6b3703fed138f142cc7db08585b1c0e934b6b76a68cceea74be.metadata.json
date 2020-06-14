@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "558f455e32d88ecc52a7c0525619bc6baa6bcc67",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "x-github-request-id": "63A0:7F0F:121BB3:13C498:5EE5F225",
+    "x-served-by": "cache-sin18048-SIN",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1592128038.752882,VS0,VE315",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes",
+    "etag": "W/\"157441732044cb117f322d7b6fe9e7b8b34b368d067253956180f18137046457\"",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/throttle.js"
+}

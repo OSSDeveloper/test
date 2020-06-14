@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-served-by": "cache-bom18224-BOM",
+    "x-frame-options": "deny",
+    "x-github-request-id": "74D4:7210:3CCCB1:3FB12A:5EE5F226",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "5c918b20e45ae7221572dfefa20ef64b0441bfdd",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "etag": "W/\"598e46ce57fc203e9a4feda4735b53f2f2dfa8ae7a0178c409ceb03f400691fc\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-timer": "S1592128038.218717,VS0,VE274",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/words.js"
+}

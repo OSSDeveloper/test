@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-served-by": "cache-sin18023-SIN",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "x-timer": "S1592128036.025701,VS0,VE315",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "8f1a8e21771f025181cd934153a13227347f40a3",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "accept-ranges": "bytes",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "5AC6:7F0E:3E266:4F994:5EE5F223",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"74eea0de57e2c88043a4c42cabd8bdd5e511f9f3f2e53312ee6add25b9df2a3c\"",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/intersectionWith.js"
+}

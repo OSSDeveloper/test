@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1592128039.647377,VS0,VE311",
+    "etag": "W/\"a7f202d7e0235d257685367afdc8716aa8eef122b88865495f663df6fb9bbcf2\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "22c303166a7acc30dd34f48f5b7d0bbf1a146cce",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "377A:7F10:33EE06:36E784:5EE5F226",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-sin18030-SIN",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseFlatten.js"
+}

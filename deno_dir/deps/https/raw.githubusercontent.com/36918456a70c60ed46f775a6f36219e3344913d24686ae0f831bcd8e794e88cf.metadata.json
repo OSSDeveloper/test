@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "7CBE:7F10:33EDB2:36E722:5EE5F223",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "etag": "W/\"de8fb23df8dc4e00c76897c8c77851a2eb817030f74fdaa8a173956542c4e22b\"",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "d6a39c7be03e2dbc8634371703d2766a73314de1",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-served-by": "cache-sin18051-SIN",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1592128036.790089,VS0,VE313"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/flip.js"
+}

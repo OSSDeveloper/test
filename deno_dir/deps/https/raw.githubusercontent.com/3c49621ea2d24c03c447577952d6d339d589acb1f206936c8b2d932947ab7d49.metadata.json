@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "CD66:0B84:AD18:1A2D1:5EE5F226",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-served-by": "cache-bom18224-BOM",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128039.612297,VS0,VE269",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300",
+    "etag": "W/\"ff50c7813d5d11ed79e4819726ba17b4f1e013dfc2c05ee47a66e600a7b765de\"",
+    "x-fastly-request-id": "48296a65e63af48784c7d5111c7f8494dfa7174f",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_arrayPush.js"
+}

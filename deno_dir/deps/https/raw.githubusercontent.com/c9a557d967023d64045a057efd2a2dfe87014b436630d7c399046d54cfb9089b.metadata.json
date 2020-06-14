@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128036.968866,VS0,VE319",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "etag": "W/\"2385993e50dbf4ecda591f632edcb748a6ab1cdff8cbeeb90542f73ef3e4e47a\"",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-sin18038-SIN",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "BC6E:7B12:126981:14159F:5EE5F223",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "f40189bc0f4cb9b6ef5f9177f2dbd37af6399a1a",
+    "x-content-type-options": "nosniff",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/flattenDeep.js"
+}

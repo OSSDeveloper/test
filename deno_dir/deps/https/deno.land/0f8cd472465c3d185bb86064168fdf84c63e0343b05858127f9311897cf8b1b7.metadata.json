@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cf-ray": "5a332ec389efe243-SIN",
+    "x-timer": "S1592128600.641598,VS0,VE314",
+    "cf-request-id": "0353db8e360000e2438eb7c200000001",
+    "etag": "W/\"a32f52e16a5cb8e441b36a74eb3785a34732feebe58b31b16ed08e3d3876c354\"",
+    "server": "cloudflare",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "expires": "Sun, 14 Jun 2020 10:01:39 GMT",
+    "cf-cache-status": "MISS",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "date": "Sun, 14 Jun 2020 09:56:39 GMT",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "content-type": "application/javascript; charset=utf-8",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "58669be063391bb1688de28c99bd30ba196265ca",
+    "x-frame-options": "deny",
+    "x-github-request-id": "3038:17F5:3F283:50F6F:5EE5F453",
+    "cache-control": "max-age=14400",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18046-SIN"
+  },
+  "url": "https://deno.land/x/lodash/flowRight.js"
+}

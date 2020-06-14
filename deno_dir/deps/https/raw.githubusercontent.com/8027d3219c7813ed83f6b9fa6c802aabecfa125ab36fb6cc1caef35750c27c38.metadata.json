@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "source-age": "0",
+    "x-timer": "S1592128035.087008,VS0,VE297",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-bom18225-BOM",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "9562:7210:3CCC52:3FB0C5:5EE5F223",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "36c7ed73389c961370c5f0e37233ed7cfa92e742",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "etag": "W/\"9f2defe1152dff30505806bff0917c1fcaabf898f6101a5eae81b13e180dfba0\"",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/chain.js"
+}

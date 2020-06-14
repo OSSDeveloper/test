@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"215e731e369234c2878fd466a24e9189816b920c07e2d7953827f1dd419a4435\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128040.948909,VS0,VE310",
+    "x-served-by": "cache-sin18051-SIN",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "977b9b19bef7c5752a74dc84ae720126ce2bdf70",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "0DB2:7B11:43EF2:55A1D:5EE5F225",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createToPairs.js"
+}

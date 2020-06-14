@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "etag": "W/\"7bd970776e928df1713da5e7fd7240f3e2fae8a1794580840366f0560b22cdc8\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "BB44:720F:114F75:12D4B0:5EE5F225",
+    "x-served-by": "cache-bom18226-BOM",
+    "x-cache": "MISS, MISS",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-timer": "S1592128037.227603,VS0,VE263",
+    "x-fastly-request-id": "d8621a16a7c90a66bb3b0ed65b360a5dcbae1e9a",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/pullAll.js"
+}

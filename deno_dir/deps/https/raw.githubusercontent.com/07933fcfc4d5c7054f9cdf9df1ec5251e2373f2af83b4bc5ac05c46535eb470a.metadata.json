@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "C97C:5190:3DC2A6:40B0EA:5EE5F227",
+    "x-cache-hits": "0, 0",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-timer": "S1592128039.007197,VS0,VE253",
+    "etag": "W/\"d6f4922a7c19662d65184df4c51e3ae144df252a25c8f8ab5ecd5e96b0d819ac\"",
+    "x-xss-protection": "1; mode=block",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "16af17194dc7e76f5c981468a73fe88ceef73bcb",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseGet.js"
+}

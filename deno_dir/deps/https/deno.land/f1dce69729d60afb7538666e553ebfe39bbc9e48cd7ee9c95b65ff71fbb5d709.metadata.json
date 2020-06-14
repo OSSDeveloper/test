@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "x-github-request-id": "24C8:590C:2CE68:3DEE9:5EE5F457",
+    "server": "cloudflare",
+    "cf-ray": "5a332ec40b3ce243-SIN",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "max-age=14400",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "a83f622a4bdf857f6baf8ab77384b7ed5d586a9e",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"6947b94a74d7b5e90c17dd60baf604472570d9913ace0503894d3454e96021f4\"",
+    "cf-cache-status": "MISS",
+    "expires": "Sun, 14 Jun 2020 10:01:40 GMT",
+    "x-frame-options": "deny",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "cf-request-id": "0353db8e890000e2438ebc7200000001",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sun, 14 Jun 2020 09:56:40 GMT",
+    "x-served-by": "cache-sin18046-SIN",
+    "x-timer": "S1592128600.848536,VS0,VE335",
+    "content-type": "application/javascript; charset=utf-8"
+  },
+  "url": "https://deno.land/x/lodash/mapKey.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "c37bac6e6168f9842e90d3f52c5bf1b0614636c0",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "x-github-request-id": "E436:0B87:3D23E5:400D73:5EE5F228",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128041.040396,VS0,VE266",
+    "source-age": "0",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"a650d5de90d9db64582343db6100c35c1b67c2425b0e031177ae9c697c1ac3df\"",
+    "connection": "keep-alive",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-bom18227-BOM"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_getWrapDetails.js"
+}

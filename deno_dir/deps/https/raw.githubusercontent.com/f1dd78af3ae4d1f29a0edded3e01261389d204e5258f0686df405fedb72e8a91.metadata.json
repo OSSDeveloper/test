@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "x-cache": "MISS, MISS",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-served-by": "cache-sin18047-SIN",
+    "x-frame-options": "deny",
+    "x-fastly-request-id": "f32c24aec1a624535c941e5abd40346a1ffad64d",
+    "etag": "W/\"3f98af524e59fa2b0b22996d08b549a9af19138211b6d0f30cb2b218a1d3055b\"",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-timer": "S1592128037.329028,VS0,VE335",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "76CA:0546:3387C2:3681AA:5EE5F225",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/replace.js"
+}

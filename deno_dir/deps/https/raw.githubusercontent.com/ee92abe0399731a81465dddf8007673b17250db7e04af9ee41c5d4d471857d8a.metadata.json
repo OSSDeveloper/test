@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "access-control-allow-origin": "*",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"b270b3ed90663b8fd105b78c3b4050293878721d387c457e149442a863197a86\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-bom18224-BOM",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-timer": "S1592128039.089618,VS0,VE275",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive",
+    "x-fastly-request-id": "9c91c25fc6a5cd35a212956dcbfa11db4ab9efc0",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "BD98:7210:3CCCD1:3FB145:5EE5F226",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_createInverter.js"
+}

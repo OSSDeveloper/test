@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "BAFA:7F94:1158BE:12E01B:5EE5F226",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-bom18220-BOM",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"86ac87360a55052a3f029c96e2e4e94b60ee536e101d5205b913aedaca3b5128\"",
+    "connection": "keep-alive",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1592128039.116103,VS0,VE262",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "bf488e25f38160d7fc33aaf6a9cf843496ebbafa",
+    "source-age": "0",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseInRange.js"
+}

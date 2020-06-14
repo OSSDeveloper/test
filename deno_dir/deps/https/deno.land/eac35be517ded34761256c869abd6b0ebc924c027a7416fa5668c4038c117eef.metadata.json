@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "676761007ee0a5c88c8956d16625d59eb47fa9bf",
+    "x-github-request-id": "7B10:590E:133B95:14FA14:5EE5F457",
+    "expires": "Sun, 14 Jun 2020 10:01:40 GMT",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "etag": "W/\"949cf7dfafdcd6f9d24b004eb46422ce8dcf85e37b88aa7b7b2997490225753c\"",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "cache-control": "max-age=14400",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1592128600.010696,VS0,VE326",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-sin18027-SIN",
+    "date": "Sun, 14 Jun 2020 09:56:40 GMT",
+    "cf-cache-status": "MISS",
+    "content-type": "application/javascript; charset=utf-8",
+    "server": "cloudflare",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "cf-ray": "5a332ec5e861e243-SIN",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "cf-request-id": "0353db8fb20000e2438e85b200000001",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://deno.land/x/lodash/.internal/createMathOperation.js"
+}

@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 10:01:39 GMT",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "545bbcd174252a4a5ea3fb555e06cf8342c40fcb",
+    "cf-ray": "5a332ec34912e243-SIN",
+    "etag": "W/\"e9eb9ec06cc9b5e8bb1e87211f63ec8bb9207fc09f280b2ce7f0d4670784f916\"",
+    "x-timer": "S1592128600.592959,VS0,VE326",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sun, 14 Jun 2020 09:56:39 GMT",
+    "cf-request-id": "0353db8e0e0000e2438eb48200000001",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "source-age": "0",
+    "cf-cache-status": "MISS",
+    "cache-control": "max-age=14400",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "server": "cloudflare",
+    "x-github-request-id": "8838:590F:2CA471:2F6B25:5EE5F44D",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-served-by": "cache-sin18020-SIN",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0, 0",
+    "content-type": "application/javascript; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding"
+  },
+  "url": "https://deno.land/x/lodash/cloneDeepWith.js"
+}

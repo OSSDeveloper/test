@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "etag": "W/\"4ec0ea718ea1afd18e862f1ef1beb00756ee1361e6058cddedc74b2bc0e1aaf6\"",
+    "x-served-by": "cache-sin18036-SIN",
+    "accept-ranges": "bytes",
+    "x-fastly-request-id": "ed718829aad751fb9cbe7e29f5b83f2ae01621bc",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-timer": "S1592128039.987679,VS0,VE315",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-github-request-id": "318E:7B12:1269AF:1415CF:5EE5F226",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseForOwn.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "etag": "W/\"bf62541a0a91bec5841314444845ec8ae96c53880e5e985dcc14f40b879ca0aa\"",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-timer": "S1592128040.215412,VS0,VE312",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "x-served-by": "cache-sin18047-SIN",
+    "x-cache-hits": "0, 0",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "C952:0546:338827:368207:5EE5F227",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "128006e531e23c332bad2651eeed31b885908316",
+    "content-type": "text/plain; charset=utf-8"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_copySymbolsIn.js"
+}

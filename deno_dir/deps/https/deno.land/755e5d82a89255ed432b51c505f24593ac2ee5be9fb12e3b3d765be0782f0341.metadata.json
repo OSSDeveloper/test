@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "e94604212905babcb8d96ec11a166aa5ed3d4b06",
+    "x-served-by": "cache-sin18040-SIN",
+    "x-timer": "S1592128600.487256,VS0,VE325",
+    "cache-control": "max-age=14400",
+    "set-cookie": "__cfduid=dcc191a8ff51025a81b8bf894651a2d161592128600; expires=Tue, 14-Jul-20 09:56:40 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "date": "Sun, 14 Jun 2020 09:56:40 GMT",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "x-cache-hits": "0, 0",
+    "cf-ray": "5a332ec8f8cbe243-SIN",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "34D6:17F6:3335F5:364057:5EE5F457",
+    "expires": "Sun, 14 Jun 2020 10:01:40 GMT",
+    "cf-cache-status": "MISS",
+    "source-age": "0",
+    "server": "cloudflare",
+    "x-cache": "MISS, MISS",
+    "content-type": "application/javascript; charset=utf-8",
+    "cf-request-id": "0353db919a0000e2438e8b0200000001",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "etag": "W/\"bfe0af91971e172e8a00d90ce947a97d05e3fb75cc468b4d8c2dce0a09f40189\"",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://deno.land/x/lodash/.internal/isFlattenable.js"
+}

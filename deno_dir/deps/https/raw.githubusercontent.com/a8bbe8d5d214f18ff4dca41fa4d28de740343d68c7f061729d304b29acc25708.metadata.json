@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "etag": "W/\"33fd0d3ac7ca297dfbd9e7bd1d747700df0c51cc2eaecd74add547d000e4d43b\"",
+    "connection": "keep-alive",
+    "x-github-request-id": "CB0A:518F:FDD45:1157E3:5EE5F224",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1592128036.099135,VS0,VE248",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "985564a9f381ac30c772511dcd2b5a8b75b3d3e5",
+    "strict-transport-security": "max-age=31536000",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS, MISS",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isArrayLike.js"
+}

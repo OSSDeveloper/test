@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-sin18051-SIN",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "source-age": "0",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-timer": "S1592128041.735391,VS0,VE316",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"ccf634e790ec141968f28b2c2898e7d73dd79a2966d5de8298c4b2578f8dd56f\"",
+    "x-github-request-id": "1EDA:0546:338839:368222:5EE5F228",
+    "x-fastly-request-id": "f9cbed22287ee0fd29f6bd8b906d2ef6c42758c6",
+    "x-content-type-options": "nosniff",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0, 0",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_safeGet.js"
+}

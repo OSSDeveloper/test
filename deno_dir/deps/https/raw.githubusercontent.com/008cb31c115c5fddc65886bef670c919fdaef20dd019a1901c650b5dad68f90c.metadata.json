@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "x-github-request-id": "E5CE:0B87:3D23D6:400D33:5EE5F226",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128041.546293,VS0,VE1066",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-bom18222-BOM",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "d950e3946d80014132292e5cd7059173c49a221f",
+    "source-age": "0",
+    "etag": "W/\"eb35c106695e21612c913e2f84abd6d838066ec0a4a1fca2bb5a86bebfba06cf\"",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseInverter.js"
+}

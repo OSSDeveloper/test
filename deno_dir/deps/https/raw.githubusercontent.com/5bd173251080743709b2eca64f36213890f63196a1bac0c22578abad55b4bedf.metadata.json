@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "536C:7B13:33722E:366617:5EE5F227",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-served-by": "cache-sin18051-SIN",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "etag": "W/\"81341f678669324f5fd2ba2225efd5ca36e7c5a055e4359784f1f05a60d3126c\"",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "db164e6e8d0ef9f715114c0d1b22a5779cfc7f64",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1592128040.556570,VS0,VE325",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseUnset.js"
+}

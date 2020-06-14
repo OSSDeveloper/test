@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-bom18222-BOM",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128035.892201,VS0,VE253",
+    "strict-transport-security": "max-age=31536000",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "EC82:7F95:3CC60C:3FABF5:5EE5F222",
+    "x-fastly-request-id": "44ce509803baffb9c65da049819412f62701b27a",
+    "source-age": "0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "etag": "W/\"47d55dacb4644dda5f85056eeb976004e8b7a4e3cdb4f1acfeb878886922036a\"",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/ary.js"
+}

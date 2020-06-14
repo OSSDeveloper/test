@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "x-fastly-request-id": "aed05b06480e57c2421f2fb1a23a80b23a6aa75d",
+    "x-served-by": "cache-sin18032-SIN",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000",
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-cache-hits": "0, 0",
+    "expires": "Sun, 14 Jun 2020 10:01:40 GMT",
+    "x-frame-options": "deny",
+    "cf-request-id": "0353db8fb60000e2438e85e200000001",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "cf-cache-status": "MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "71D8:590F:2CA495:2F6CA6:5EE5F458",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-timer": "S1592128600.102542,VS0,VE325",
+    "cache-control": "max-age=14400",
+    "cf-ray": "5a332ec5f879e243-SIN",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "application/javascript; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "etag": "W/\"5fb09ddbe07fafc0acec288d4deee42b868977e7e8a509d705a81a14c46c458c\"",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 14 Jun 2020 09:56:40 GMT"
+  },
+  "url": "https://deno.land/x/lodash/.internal/baseFlatten.js"
+}

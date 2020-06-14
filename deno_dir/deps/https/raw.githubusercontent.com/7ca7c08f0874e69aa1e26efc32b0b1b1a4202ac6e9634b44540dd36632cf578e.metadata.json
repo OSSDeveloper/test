@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1592128036.798664,VS0,VE352",
+    "x-served-by": "cache-sin18051-SIN",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "cache-control": "max-age=300",
+    "x-github-request-id": "4F38:0546:338783:36816A:5EE5F223",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "940ce6277985b9ba0f5904b708c0e129353a311e",
+    "accept-ranges": "bytes",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"7c0d55a1014f114649d8af959217b39601da29b3a9edf69a5d2319eab114ebff\"",
+    "connection": "keep-alive",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/gt.js"
+}

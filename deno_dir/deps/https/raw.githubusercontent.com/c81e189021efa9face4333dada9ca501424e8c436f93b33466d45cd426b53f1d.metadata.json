@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "etag": "W/\"b94b2e80866f251bd099a6e64b61252b970ea12ce7f3c8da17d569a56ce7a0e2\"",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "x-served-by": "cache-bom18227-BOM",
+    "access-control-allow-origin": "*",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-fastly-request-id": "521efdc175b32ee33c0b7e5786eed26645c06273",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "74D4:7210:3CCD18:3FB194:5EE5F229",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128041.165418,VS0,VE280"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_stackHas.js"
+}

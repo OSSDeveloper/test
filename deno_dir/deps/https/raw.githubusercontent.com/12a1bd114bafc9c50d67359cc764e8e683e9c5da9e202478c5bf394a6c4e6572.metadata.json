@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"1a17a62fbe830f1f6079705945f5c1bba6c725079c2b912c2fd8b406bf663ca3\"",
+    "access-control-allow-origin": "*",
+    "x-cache-hits": "0, 0",
+    "x-fastly-request-id": "2af03ae34b6295bdfe61400284f69fda64f476e7",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-github-request-id": "57A4:0546:338769:368150:5EE5F222",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128035.975387,VS0,VE319",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18048-SIN",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/debounce.js"
+}

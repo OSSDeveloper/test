@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-sin18036-SIN",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"edf034acd3f0c7ee11faa83e22f53fd4f3a03dfb3bb5f4e7d665b5ee72d9a309\"",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "E384:0547:10B881:125280:5EE5F228",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128041.847447,VS0,VE307",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-fastly-request-id": "cec0d7a2c73421a140c20d87c567e42e57b215a1",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_asciiSize.js"
+}

@@ -1,4 +1,4 @@
-import { join, BufReader, parse } from "./deps.ts";
+import { join, BufReader, parse, _ } from "./deps.ts";
 
 interface Planet{
     [key: string] : string
@@ -35,7 +35,15 @@ let findHabitablePlanets = async function (strPath: string) {
         );
     });
     
-    return habitablePlanets;
+    return habitablePlanets.map((planet) => {
+        return _.pick(planet, [
+            'koi_prad',
+            'koi_srad',
+            'kepler_name',
+            'koi_tce_plnt_num',
+            'koi_steff'
+        ]);
+    });
 }
 
 let results = await findHabitablePlanets('./nasa_data/cumulative_2020.06.13_17.31.23.csv');

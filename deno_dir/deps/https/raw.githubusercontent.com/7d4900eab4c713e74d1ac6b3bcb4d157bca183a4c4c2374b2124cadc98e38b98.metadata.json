@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "x-served-by": "cache-sin18048-SIN",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "x-github-request-id": "F9C2:0546:3387B5:36819C:5EE5F224",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128037.964317,VS0,VE352",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS, MISS",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-fastly-request-id": "1556a52dbb34733aefb14ace16dbf2c9ab844887",
+    "accept-ranges": "bytes",
+    "source-age": "0",
+    "etag": "W/\"25eb70599ce5ce103cec027c644d12ef1187ee44a67cafed3c2c3338a50114cc\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/omit.js"
+}

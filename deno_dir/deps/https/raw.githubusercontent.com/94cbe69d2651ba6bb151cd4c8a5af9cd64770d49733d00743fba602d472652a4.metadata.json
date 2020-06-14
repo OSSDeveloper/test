@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "b8691b7cab75a2d97e22e961110d442c41058d1b",
+    "accept-ranges": "bytes",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-github-request-id": "1CA4:0546:3387F7:3681EC:5EE5F226",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-cache-hits": "0, 0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-timer": "S1592128039.943376,VS0,VE326",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"c52dd120486940651a6e5614c712ee1c4665125ab7f4ba7fe8ff680e4771a140\"",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-sin18044-SIN"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseFunctions.js"
+}

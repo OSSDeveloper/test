@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1592128036.743282,VS0,VE263",
+    "etag": "W/\"763599f3cb3671f458b3fa2998cb246d2c01e33904c533c4a899c11a245b1519\"",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "x-served-by": "cache-bom18220-BOM",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "eebb80496c9d32a0dc7021da594af2fd94b2f581",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "187E:5190:3DC23F:40B082:5EE5F223",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/fromPairs.js"
+}

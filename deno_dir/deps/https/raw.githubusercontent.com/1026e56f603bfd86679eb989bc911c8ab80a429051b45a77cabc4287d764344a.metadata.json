@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"298b77f180e6cbde7fbceb95fdddb97e62d24cb10363bd121ed8aa6b0365b619\"",
+    "expires": "Sun, 14 Jun 2020 09:52:14 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:14 GMT",
+    "x-served-by": "cache-sin18051-SIN",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "0D68:0546:33875A:36813C:5EE5F221",
+    "x-timer": "S1592128034.240970,VS0,VE315",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "de0d381c772ba4f4ee2887fd9872bdfabdbfa83c",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/add.js"
+}

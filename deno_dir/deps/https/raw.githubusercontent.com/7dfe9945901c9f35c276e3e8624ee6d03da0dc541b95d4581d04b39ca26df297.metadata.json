@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-content-type-options": "nosniff",
+    "x-cache": "MISS, MISS",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "20fecbcfecee9b569280a7294f577dd65de068fe",
+    "x-cache-hits": "0, 0",
+    "accept-ranges": "bytes",
+    "etag": "W/\"83fe7ddf2b4827a1e8f7df7a08040c294d2a5762ac9ba126e84d732dcbb97263\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "D692:7F95:3CC685:3FAC6C:5EE5F227",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "x-served-by": "cache-bom18220-BOM",
+    "x-timer": "S1592128040.213225,VS0,VE258",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_getAllKeys.js"
+}

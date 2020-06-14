@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-github-request-id": "24C2:7F10:33EE52:36E7D2:5EE5F228",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "x-served-by": "cache-sin18038-SIN",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128041.598767,VS0,VE324",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-frame-options": "deny",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "5fc79a372dda33cc39a121db29c6032fd869e1e3",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"6ba59494bed378c035c48d5b8cc31503f1ccbfebfc36e516a72ad83f0bb046ff\"",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_Map.js"
+}

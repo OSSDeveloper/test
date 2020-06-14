@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128035.426284,VS0,VE275",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "etag": "W/\"e88498e4681012595b09ecc23794ecb4ee4abf6a03ff12098c84e84b5b8c4d65\"",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "x-served-by": "cache-bom18221-BOM",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "a2daa80062a8e4b8f56393d1ae1a46de5a68c63d",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "x-github-request-id": "6172:7210:3CCC5C:3FB0D1:5EE5F223"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/escape.js"
+}

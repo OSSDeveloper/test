@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "CB0A:518F:FDD47:1157E5:5EE5F224",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "content-type": "text/plain; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"b4452c060c6b3a07535d30c91f925ce2638606dbd9a4840e7e7c1ae415454643\"",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-bom18224-BOM",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "6dc5158349c2ecd8762134df56deb2abd201e4f4",
+    "x-timer": "S1592128036.359262,VS0,VE272"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isRegExp.js"
+}

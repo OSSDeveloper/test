@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "b99788c927f618a34a2ab4a754a72f4db2f88d0f",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "22",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"de3dbda5dddfe1e29cf65d15fe3f824ae422e7d05dd48deeab22c4e78de45266\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-github-request-id": "4C56:3BC8:2FB105:3298BE:5EE5F458",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "x-timer": "S1592128623.831738,VS0,VE1",
+    "x-served-by": "cache-sin18046-SIN",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 10:02:02 GMT",
+    "date": "Sun, 14 Jun 2020 09:57:02 GMT",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 1",
+    "x-cache": "MISS, HIT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/master/.internal/basePickBy.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"529330e667f8f6836f89e8268fbc82baf2c4f6f17d055a9d09cbd87f27001ec4\"",
+    "x-content-type-options": "nosniff",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "x-timer": "S1592128035.888979,VS0,VE255",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-bom18227-BOM",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "CDAE:7F95:3CC60C:3FABF1:5EE5F222",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "109ada5dd94e1c7adacee7a63d37c4a7f3892918",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/create.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "7A7E:0546:3387CB:3681B4:5EE5F225",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "x-fastly-request-id": "23f3d722e4213f2a2804c75dc7dc11a0f21a5636",
+    "etag": "W/\"f92ac264b19e1c39875d4db5a396286db11ee939ad85da8dcd845fdb34947485\"",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18036-SIN",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128038.698329,VS0,VE294",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/sum.js"
+}

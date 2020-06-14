@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "x-github-request-id": "2D3A:7210:3CCC9F:3FB0EB:5EE5F224",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-bom18222-BOM",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "etag": "W/\"d430b795fd00f0c9fe756b84480be286d0ebbab2d47bdd43b69812b1d8b39680\"",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128038.643894,VS0,VE268",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "4778a0edef489b2d448c1ddefc473a4eea1113e1",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/stubString.js"
+}

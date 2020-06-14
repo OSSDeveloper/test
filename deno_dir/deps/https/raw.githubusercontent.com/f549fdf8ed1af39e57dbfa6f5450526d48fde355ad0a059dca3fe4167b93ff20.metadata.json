@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:15 GMT",
+    "expires": "Sun, 14 Jun 2020 09:52:15 GMT",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-bom18226-BOM",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128036.634851,VS0,VE313",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "x-fastly-request-id": "4ea5d8c0fe581c753806b8a4ced3f100261c49e8",
+    "cache-control": "max-age=300",
+    "connection": "keep-alive",
+    "etag": "W/\"559b10a61dcfa19d554f6352d22d25b40ae79d3c13bbd736289838763cb067ec\"",
+    "x-github-request-id": "FDD4:0B87:3D2361:400CF0:5EE5F223"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/flatten.js"
+}

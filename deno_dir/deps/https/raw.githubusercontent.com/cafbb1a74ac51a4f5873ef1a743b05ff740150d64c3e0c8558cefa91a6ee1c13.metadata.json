@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "x-timer": "S1592128036.959892,VS0,VE312",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-fastly-request-id": "a3009c3e666b4cfb2baa108f86c46be4b1c07227",
+    "x-cache": "MISS, MISS",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-sin18026-SIN",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "etag": "W/\"3584ec8d0c0a2a1ea89b42c777128ecad087ac22636919779c37f631a7add2dc\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "x-github-request-id": "35B8:7F10:33EDB7:36E72D:5EE5F223",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/inRange.js"
+}

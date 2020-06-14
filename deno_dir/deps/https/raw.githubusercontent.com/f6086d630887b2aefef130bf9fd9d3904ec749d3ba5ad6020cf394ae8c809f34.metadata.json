@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "access-control-allow-origin": "*",
+    "etag": "W/\"1ac71b4b929147fb602e4133530fa9875af78d795d0da14f089e9b223c66bb53\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "source-age": "0",
+    "x-content-type-options": "nosniff",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1592128037.130613,VS0,VE254",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-type": "text/plain; charset=utf-8",
+    "x-fastly-request-id": "48a48fa7b2c31eb574bd5e99a228b240615a2328",
+    "x-github-request-id": "E5CE:0B87:3D2382:400D0E:5EE5F224",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/plant.js"
+}

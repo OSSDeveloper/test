@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "set-cookie": "__cfduid=d25c0b52df5b299f400ef117ff81d08621592128599; expires=Tue, 14-Jul-20 09:56:39 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "cache-control": "max-age=14400",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "access-control-allow-origin": "*",
+    "cf-cache-status": "MISS",
+    "etag": "W/\"215b3ad6eaf5afcb038cb4ccff0fd11c4ee657b9e181f0682e21950609d36865\"",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache": "MISS, MISS",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "d103df63cd59e52a9b4f886104d83c70461338a7",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-timer": "S1592128600.745947,VS0,VE1039",
+    "server": "cloudflare",
+    "strict-transport-security": "max-age=31536000",
+    "x-served-by": "cache-sin18051-SIN",
+    "x-cache-hits": "0, 0",
+    "source-age": "0",
+    "cf-ray": "5a332ec40b2ae243-SIN",
+    "date": "Sun, 14 Jun 2020 09:56:40 GMT",
+    "x-github-request-id": "4CDC:590D:62EEF:763D2:5EE5F44A",
+    "content-type": "application/javascript; charset=utf-8",
+    "expires": "Sun, 14 Jun 2020 10:01:40 GMT",
+    "cf-request-id": "0353db8e890000e2438ebbc200000001",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://deno.land/x/lodash/kebabCase.js"
+}

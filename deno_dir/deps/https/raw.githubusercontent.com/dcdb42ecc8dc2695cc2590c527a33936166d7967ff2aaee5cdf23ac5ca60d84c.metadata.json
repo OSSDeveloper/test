@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "connection": "keep-alive",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-cache": "MISS, MISS",
+    "x-github-request-id": "BAFA:7F94:1158D3:12E039:5EE5F228",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-bom18227-BOM",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-fastly-request-id": "59cb9e4cd64f036bf6ff72c93bfc281ab4199976",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-frame-options": "deny",
+    "etag": "W/\"b262be6006b032851cc5f866441d0be19c0d7dc582f7c6ece272233b0db8125f\"",
+    "source-age": "0",
+    "x-timer": "S1592128041.037549,VS0,VE796",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_updateWrapDetails.js"
+}

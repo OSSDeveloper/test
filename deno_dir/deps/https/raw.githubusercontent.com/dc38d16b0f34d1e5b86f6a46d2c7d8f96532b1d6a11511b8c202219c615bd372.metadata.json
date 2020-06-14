@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "etag": "W/\"594ab9a05d51b4cba45ff2eda966e88d98a35909ce5b14ff31ac9d771ad3876b\"",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "3f97227d4aadf9965638d73bbb21707a27869426",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "x-github-request-id": "FDD4:0B87:3D23C6:400D56:5EE5F227",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "x-cache": "MISS, MISS",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128040.926296,VS0,VE256",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-served-by": "cache-bom18220-BOM",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_iteratorToArray.js"
+}

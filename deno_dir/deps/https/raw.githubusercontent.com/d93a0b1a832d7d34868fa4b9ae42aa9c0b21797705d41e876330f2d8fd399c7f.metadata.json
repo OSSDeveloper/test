@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-fastly-request-id": "616f521f757c10f0645f5bf88ebf131905cabaae",
+    "x-github-request-id": "72A6:17F6:33360A:364065:5EE5F457",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 10:02:02 GMT",
+    "x-content-type-options": "nosniff",
+    "date": "Sun, 14 Jun 2020 09:57:02 GMT",
+    "x-served-by": "cache-sin18046-SIN",
+    "source-age": "22",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"6c0cefcce667cc5900785fcc963bfbe0e8ac313f10934d22d0a8684c4c962044\"",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 1",
+    "x-timer": "S1592128623.964711,VS0,VE1",
+    "x-cache": "MISS, HIT",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/master/.internal/baseSet.js"
+}

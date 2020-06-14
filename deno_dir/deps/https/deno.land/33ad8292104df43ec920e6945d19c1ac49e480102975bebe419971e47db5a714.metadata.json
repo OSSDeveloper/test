@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "server": "cloudflare",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "strict-transport-security": "max-age=31536000",
+    "content-type": "application/javascript; charset=utf-8",
+    "x-fastly-request-id": "ac104fa590ddfd4686fac0bacc9a698b298d530d",
+    "cache-control": "max-age=14400",
+    "date": "Sun, 14 Jun 2020 09:56:41 GMT",
+    "x-timer": "S1591630369.019014,VS0,VE335",
+    "etag": "W/\"c47d2448b04013bb81ff1ef17674a05ac3bb4f5f9eb84726f068fdec2182d4a9\"",
+    "cf-request-id": "0353db941b0000e2438e90e200000001",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-sin18042-SIN",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 10:01:41 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cf-ray": "5a332eccfb09e243-SIN",
+    "x-cache-hits": "0, 0",
+    "set-cookie": "__cfduid=d0d4c5094c9d1adbfc5907182afb129fc1592128601; expires=Tue, 14-Jul-20 09:56:41 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-content-type-options": "nosniff",
+    "x-github-request-id": "5AEE:6B42:33F047:3764E9:5EDE5A20",
+    "cf-cache-status": "REVALIDATED",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-cache": "MISS, MISS"
+  },
+  "url": "https://deno.land/x/lodash/.internal/memoizeCapped.js"
+}

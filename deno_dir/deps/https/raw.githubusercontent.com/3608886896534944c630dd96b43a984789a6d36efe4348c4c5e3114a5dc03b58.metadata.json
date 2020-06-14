@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-github-request-id": "1892:7F10:33EE40:36E7C3:5EE5F228",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "connection": "keep-alive",
+    "x-fastly-request-id": "50be707dff5ac925c57ed5f9f9119efd95315c0c",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"fae2ca94578c386c92f222611f48396eceb590fd777e9192602941e67d7dd1a4\"",
+    "x-timer": "S1592128040.195237,VS0,VE314",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-served-by": "cache-sin18032-SIN",
+    "content-type": "text/plain; charset=utf-8",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-cache-hits": "0, 0",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseAssignIn.js"
+}

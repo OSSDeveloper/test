@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18036-SIN",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-timer": "S1592128037.127803,VS0,VE310",
+    "connection": "keep-alive",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "01f3be18b42a95be6f0bc3f0b3548ee8ba91f9f9",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS",
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "etag": "W/\"99a0d8afca9ecf820d6adddb260caf00cea86a887e2cc85e81d1100faac4afad\"",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "9080:7B12:126993:1415B3:5EE5F225",
+    "source-age": "0",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/pick.js"
+}

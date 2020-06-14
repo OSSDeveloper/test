@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"412113d7a4dcdcd27a5f277c39d629c43adf93c642e82aa716f99bfd39b0b367\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-bom18220-BOM",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "x-timer": "S1592128040.754032,VS0,VE264",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "accept-ranges": "bytes",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-cache": "MISS, MISS",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-fastly-request-id": "22effa722754767fc38f4cb33e7b857f29e9122e",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "source-age": "0",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "3618:7F94:1158C5:12E028:5EE5F227"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseSortedUniq.js"
+}

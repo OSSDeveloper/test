@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-frame-options": "deny",
+    "connection": "keep-alive",
+    "strict-transport-security": "max-age=31536000",
+    "accept-ranges": "bytes",
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-served-by": "cache-bom18227-BOM",
+    "x-fastly-request-id": "c9a7aa41a7c9bc24a213091cda0a7292bb40961f",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-timer": "S1592128039.567657,VS0,VE827",
+    "etag": "W/\"51c46984fa8d5adf90687b66baa4ea9996c7b24c10af8eb79b1537e2afb4b3f7\"",
+    "x-github-request-id": "CB12:7210:3CCCC0:3FB109:5EE5F225",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_baseAssignValue.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-bom18226-BOM",
+    "connection": "keep-alive",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128038.133635,VS0,VE273",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "cache-control": "max-age=300",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "source-age": "0",
+    "etag": "W/\"bc0778821117f1cca1ca844d82e9440cd0c1960d95ff3ed8fdc27cc2f682e65a\"",
+    "x-fastly-request-id": "0deaab11dc091845cca8835b9437a0bd69b53d1a",
+    "x-github-request-id": "9562:7210:3CCCAF:3FB121:5EE5F225",
+    "strict-transport-security": "max-age=31536000"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/upperCase.js"
+}

@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "x-github-request-id": "C97C:5190:3DC2CE:40B113:5EE5F228",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "x-content-type-options": "nosniff",
+    "x-cache-hits": "0, 0",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS, MISS",
+    "etag": "W/\"b1e09e905818e9fc0dfc20818f5d448037850487c3eab43b70ca0ac29c4b1eed\"",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "content-type": "text/plain; charset=utf-8",
+    "x-timer": "S1592128040.382559,VS0,VE264",
+    "x-fastly-request-id": "b21f86778648b0e5162a85a26c3efd9735834eec",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-bom18227-BOM",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "x-xss-protection": "1; mode=block",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_isFlattenable.js"
+}

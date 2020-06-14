@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-content-type-options": "nosniff",
+    "x-served-by": "cache-sin18042-SIN",
+    "access-control-allow-origin": "*",
+    "accept-ranges": "bytes",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-timer": "S1592128039.266365,VS0,VE309",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-cache-hits": "0, 0",
+    "x-github-request-id": "E384:0547:10B86F:12526A:5EE5F226",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "etag": "W/\"ebd9c0b0b6889bc4101edb84d4a15c9a48cf414edb3e37dea4d056ae755aacd6\"",
+    "strict-transport-security": "max-age=31536000",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "4ba5ac4547851383523d1284bc022bc004db478d",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_isMaskable.js"
+}

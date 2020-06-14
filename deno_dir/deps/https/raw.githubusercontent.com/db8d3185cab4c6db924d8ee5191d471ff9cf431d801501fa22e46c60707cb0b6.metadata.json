@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "x-cache": "MISS, HIT",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"d85da74e79e8b69450880484e3c916e0011fc5b1f79a1a83ad27baf173e2c703\"",
+    "date": "Sun, 14 Jun 2020 09:57:03 GMT",
+    "source-age": "22",
+    "x-fastly-request-id": "90274b3eb628f5b94955d8ee3079a55ecdadab81",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "strict-transport-security": "max-age=31536000",
+    "x-frame-options": "deny",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-xss-protection": "1; mode=block",
+    "connection": "keep-alive",
+    "expires": "Sun, 14 Jun 2020 10:02:03 GMT",
+    "x-cache-hits": "0, 1",
+    "x-timer": "S1592128623.306845,VS0,VE0",
+    "x-served-by": "cache-sin18020-SIN",
+    "x-github-request-id": "19C6:17F6:33360A:3640A5:5EE5F458"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/master/.internal/stringToPath.js"
+}

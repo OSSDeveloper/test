@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "x-github-request-id": "1AD4:0547:10B84E:12524B:5EE5F224",
+    "x-timer": "S1592128036.222479,VS0,VE304",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "accept-ranges": "bytes",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "strict-transport-security": "max-age=31536000",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-fastly-request-id": "151b8e2a21f443a918c9d29216bdbc00dba256a7",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"195c5b2cde570204149d040a969dba5d055989b193bd3c6fee7046bef2204d17\"",
+    "source-age": "0",
+    "x-xss-protection": "1; mode=block",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-frame-options": "deny",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "x-cache": "MISS, MISS",
+    "x-served-by": "cache-sin18051-SIN"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isFunction.js"
+}

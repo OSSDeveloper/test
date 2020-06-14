@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "C84A:0546:3387A0:36818F:5EE5F224",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "x-served-by": "cache-sin18032-SIN",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "x-timer": "S1592128037.501173,VS0,VE316",
+    "content-type": "text/plain; charset=utf-8",
+    "source-age": "0",
+    "access-control-allow-origin": "*",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "x-fastly-request-id": "cdf8c86f5a329767abc5d9fb9935fc7508279b57",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "etag": "W/\"7dc467235f0a3b68b0859e65a36073040e1103bb9ff35b33d2a0d349541928fa\"",
+    "accept-ranges": "bytes",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-frame-options": "deny"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isWeakMap.js"
+}

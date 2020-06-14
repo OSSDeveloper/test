@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "access-control-allow-origin": "*",
+    "strict-transport-security": "max-age=31536000",
+    "x-fastly-request-id": "490f7af3fed677b75456ae62495c2c05ce9645b5",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "x-frame-options": "deny",
+    "accept-ranges": "bytes",
+    "x-timer": "S1592128041.956617,VS0,VE307",
+    "content-type": "text/plain; charset=utf-8",
+    "etag": "W/\"a7863223a48875306bb1c29f0bb259749f0798f745882af4b1a6c2989f74ee6f\"",
+    "x-github-request-id": "AA7C:7B13:337262:36664C:5EE5F228",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-cache": "MISS, MISS",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-served-by": "cache-sin18030-SIN",
+    "source-age": "0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-cache-hits": "0, 0",
+    "connection": "keep-alive"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_composeArgsRight.js"
+}

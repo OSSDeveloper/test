@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-github-request-id": "7D6C:7210:3CCC71:3FB0E8:5EE5F224",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:16 GMT",
+    "x-served-by": "cache-bom18227-BOM",
+    "accept-ranges": "bytes",
+    "access-control-allow-origin": "*",
+    "x-timer": "S1592128036.072914,VS0,VE274",
+    "x-cache": "MISS, MISS",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "source-age": "0",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "x-fastly-request-id": "460b25def9e00800cf2d7506958c24caf22bc6d1",
+    "etag": "W/\"fb7f1ba789acb9d6e660242c3cf826974d00c39b1a392c460bb8b86f1c02be69\"",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff",
+    "x-xss-protection": "1; mode=block",
+    "expires": "Sun, 14 Jun 2020 09:52:16 GMT",
+    "x-frame-options": "deny",
+    "cache-control": "max-age=300"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/isArguments.js"
+}

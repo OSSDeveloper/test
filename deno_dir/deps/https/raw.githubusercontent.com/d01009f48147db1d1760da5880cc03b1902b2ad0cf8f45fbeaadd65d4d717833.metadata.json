@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-xss-protection": "1; mode=block",
+    "content-type": "text/plain; charset=utf-8",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "expires": "Sun, 14 Jun 2020 09:52:19 GMT",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"cc30938d22667247c596930d7c2e20a9713de044040b2999bd35e1615e49b147\"",
+    "x-frame-options": "deny",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-bom18227-BOM",
+    "strict-transport-security": "max-age=31536000",
+    "x-cache-hits": "0, 0",
+    "date": "Sun, 14 Jun 2020 09:47:19 GMT",
+    "x-cache": "MISS, MISS",
+    "x-timer": "S1592128038.413631,VS0,VE809",
+    "x-fastly-request-id": "65362e31561669e01bf2b7139761ac756dda8ca8",
+    "connection": "keep-alive",
+    "access-control-allow-origin": "*",
+    "x-github-request-id": "CB0A:518F:FDD57:1157F6:5EE5F226"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/zipWith.js"
+}

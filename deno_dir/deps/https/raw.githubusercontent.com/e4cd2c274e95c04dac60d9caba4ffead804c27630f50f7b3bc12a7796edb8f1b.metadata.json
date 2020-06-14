@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache-hits": "0, 1",
+    "accept-ranges": "bytes",
+    "x-github-request-id": "F246:590F:2CA49A:2F6C9A:5EE5F457",
+    "x-fastly-request-id": "7e7890a1ef67b8db9914e296d5e1caeff5bfd705",
+    "strict-transport-security": "max-age=31536000",
+    "x-content-type-options": "nosniff",
+    "etag": "W/\"d4c3724ef001253547aa06b8da068457bda4002907cd8d8799534bba9e62a1b5\"",
+    "date": "Sun, 14 Jun 2020 09:57:03 GMT",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-served-by": "cache-sin18046-SIN",
+    "cache-control": "max-age=300",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "x-xss-protection": "1; mode=block",
+    "x-frame-options": "deny",
+    "expires": "Sun, 14 Jun 2020 10:02:03 GMT",
+    "x-cache": "MISS, HIT",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "access-control-allow-origin": "*",
+    "source-age": "22",
+    "x-timer": "S1592128623.026965,VS0,VE1"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/master/.internal/castPath.js"
+}

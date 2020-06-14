@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-timer": "S1592128041.332774,VS0,VE262",
+    "x-xss-protection": "1; mode=block",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "A0F4:7F94:1158D6:12E00F:5EE5F225",
+    "date": "Sun, 14 Jun 2020 09:47:21 GMT",
+    "x-served-by": "cache-bom18223-BOM",
+    "x-cache-hits": "0, 0",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "access-control-allow-origin": "*",
+    "cache-control": "max-age=300",
+    "strict-transport-security": "max-age=31536000",
+    "connection": "keep-alive",
+    "source-age": "0",
+    "x-cache": "MISS, MISS",
+    "x-fastly-request-id": "9c6197e869c97dee106ac188f02801a20a5498da",
+    "accept-ranges": "bytes",
+    "expires": "Sun, 14 Jun 2020 09:52:21 GMT",
+    "etag": "W/\"82ae517553c1819df4c91cca958a5a3339857ebc9c037a541a95deea0f4d446c\"",
+    "x-frame-options": "deny",
+    "content-type": "text/plain; charset=utf-8",
+    "x-content-type-options": "nosniff"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_equalObjects.js"
+}

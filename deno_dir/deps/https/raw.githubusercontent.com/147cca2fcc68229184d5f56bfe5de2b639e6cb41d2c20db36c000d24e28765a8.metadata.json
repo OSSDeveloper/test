@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-fastly-request-id": "ac5bd4d7a16005183fabeb9fb1eb388de8f40709",
+    "date": "Sun, 14 Jun 2020 09:47:20 GMT",
+    "x-served-by": "cache-bom18224-BOM",
+    "accept-ranges": "bytes",
+    "content-type": "text/plain; charset=utf-8",
+    "x-frame-options": "deny",
+    "x-timer": "S1592128041.686082,VS0,VE259",
+    "x-content-type-options": "nosniff",
+    "connection": "keep-alive",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "x-xss-protection": "1; mode=block",
+    "x-cache": "MISS, MISS",
+    "cache-control": "max-age=300",
+    "etag": "W/\"f8a294fa7d6e9fbb8adcc737776dd0fc4838bab29a60fe94ba336bc60d69fa64\"",
+    "access-control-allow-origin": "*",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-github-request-id": "BAA4:518F:FDD6B:115809:5EE5F228",
+    "expires": "Sun, 14 Jun 2020 09:52:20 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "x-cache-hits": "0, 0"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/_nativeKeys.js"
+}

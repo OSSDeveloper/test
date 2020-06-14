@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "expires": "Sun, 14 Jun 2020 09:52:17 GMT",
+    "x-xss-protection": "1; mode=block",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "content-type": "text/plain; charset=utf-8",
+    "connection": "keep-alive",
+    "etag": "W/\"39b6d8820c1641d063d6aad57c78fdb551a00dc491ff6f1ef69d3fc58e267e8a\"",
+    "date": "Sun, 14 Jun 2020 09:47:17 GMT",
+    "x-served-by": "cache-sin18020-SIN",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128037.327802,VS0,VE313",
+    "x-fastly-request-id": "eab3a7860b8b9612f5309d1f9b1c3f500f9cfc0e",
+    "access-control-allow-origin": "*",
+    "source-age": "0",
+    "cache-control": "max-age=300",
+    "x-frame-options": "deny",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "x-content-type-options": "nosniff",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "35B8:7F10:33EDE1:36E753:5EE5F224",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "accept-ranges": "bytes"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/remove.js"
+}

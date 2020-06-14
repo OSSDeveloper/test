@@ -1,0 +1,31 @@
+{
+  "headers": {
+    "x-github-request-id": "9D14:3BC6:56FAF:69B1F:5EE5F458",
+    "server": "cloudflare",
+    "access-control-allow-origin": "*",
+    "date": "Sun, 14 Jun 2020 09:56:41 GMT",
+    "content-type": "application/javascript; charset=utf-8",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "expect-ct": "max-age=604800, report-uri=\"https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct\"",
+    "x-xss-protection": "1; mode=block",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-cache": "MISS, MISS",
+    "strict-transport-security": "max-age=31536000",
+    "cf-request-id": "0353db92cb0000e2438e8ea200000001",
+    "etag": "W/\"2caee8c5bdea24ac7a80736098542d2603063e727429eab40ea3e32ff1c15f51\"",
+    "via": "1.1 varnish (Varnish/6.0), 1.1 varnish",
+    "cf-ray": "5a332ecaddcee243-SIN",
+    "x-cache-hits": "0, 0",
+    "x-content-type-options": "nosniff",
+    "cache-control": "max-age=14400",
+    "set-cookie": "__cfduid=dcc191a8ff51025a81b8bf894651a2d161592128600; expires=Tue, 14-Jul-20 09:56:40 GMT; path=/; domain=.deno.land; HttpOnly; SameSite=Lax; Secure",
+    "x-fastly-request-id": "1675a1c06053390c10311beedd6328b38cf0f6cf",
+    "expires": "Sun, 14 Jun 2020 10:01:41 GMT",
+    "x-frame-options": "deny",
+    "x-served-by": "cache-sin18047-SIN",
+    "x-timer": "S1592128601.793318,VS0,VE343",
+    "source-age": "0",
+    "cf-cache-status": "MISS"
+  },
+  "url": "https://deno.land/x/lodash/.internal/assignMergeValue.js"
+}

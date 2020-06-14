@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "x-cache": "MISS, MISS",
+    "access-control-allow-origin": "*",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "x-served-by": "cache-sin18051-SIN",
+    "accept-ranges": "bytes",
+    "connection": "keep-alive",
+    "cache-control": "max-age=300",
+    "x-content-type-options": "nosniff",
+    "content-type": "text/plain; charset=utf-8",
+    "strict-transport-security": "max-age=31536000",
+    "source-age": "0",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "etag": "W/\"5cb966c98311407b5fc29e1da1d3d7904b1f86c7cbf44507e2ee21cfab56e06e\"",
+    "x-frame-options": "deny",
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "x-cache-hits": "0, 0",
+    "x-timer": "S1592128038.002435,VS0,VE309",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-github-request-id": "BB2A:7B10:11B21:216DB:5EE5F225",
+    "x-fastly-request-id": "f8eb6eb2c481e7904aaa24c8c58ea571163697db",
+    "x-xss-protection": "1; mode=block"
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/unary.js"
+}

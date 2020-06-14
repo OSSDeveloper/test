@@ -1,0 +1,27 @@
+{
+  "headers": {
+    "content-security-policy": "default-src 'none'; style-src 'unsafe-inline'; sandbox",
+    "cache-control": "max-age=300",
+    "source-age": "0",
+    "expires": "Sun, 14 Jun 2020 09:52:18 GMT",
+    "x-content-type-options": "nosniff",
+    "accept-ranges": "bytes",
+    "x-served-by": "cache-bom18221-BOM",
+    "connection": "keep-alive",
+    "x-fastly-request-id": "72e85bcd44ec5789c17f505ed9c7bf15ebd1cf42",
+    "x-cache": "MISS, MISS",
+    "via": "1.1 varnish (Varnish/6.0),1.1 varnish",
+    "date": "Sun, 14 Jun 2020 09:47:18 GMT",
+    "strict-transport-security": "max-age=31536000",
+    "x-github-request-id": "9568:5190:3DC284:40B0C8:5EE5F226",
+    "x-timer": "S1592128038.064052,VS0,VE418",
+    "vary": "Authorization,Accept-Encoding, Accept-Encoding",
+    "x-cache-hits": "0, 0",
+    "content-type": "text/plain; charset=utf-8",
+    "access-control-allow-origin": "*",
+    "x-frame-options": "deny",
+    "x-xss-protection": "1; mode=block",
+    "etag": "W/\"bfb0b2cf481c8311c9be13891a43a27b0f6938428e319c8a61d6ba78fe099c2c\""
+  },
+  "url": "https://raw.githubusercontent.com/lodash/lodash/es/uniq.js"
+}
